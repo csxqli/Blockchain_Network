@@ -1,0 +1,31 @@
+BITCOIN HARD FORK DEBATE
+ 
+https://en.bitcoin.it/wiki/Segwit_support
+ 
+Developers (There are more, these are names I have followed closely)
+ 
+Peter Todd
+Wladimir J. van der Laan
+Greg Maxwell
+Jameson Lopp
+Marcel Jamin
+Adam Back
+Luke Dashjr
+ 
+Segwit2x or COOP (aka The New York Agreement)
+ 
+Jeff Garzik (Also a dev)
+Jihan Wu
+Roger Ver
+Bitmain Inc (Owner and influencer of several of the largest BTC hash pools)
+Many, many businesses both here and abroad will be forced to support both chains should a HF occur, and a subset of those (possibly a large subset) may choose to support the segwit2x fork and turn it into a 'retail' coin.
+ 
+ 
+A) The segwit2x fork is not close to being production ready and would likely take more than a year to be close
+B) Bitcoin is not meant, nor was it ever meant to be a 'retail' / KYC / merchant-adopted coin. You can clearly see it in the code and as a user, as well as in the sentiment expressed by the people that created it (devs). Trying to turn it into that would be catastrophic. It is meant to be gold and a store of wealth - not a merchant coin.
+C) The Miners are not stepping down, each day it appears more and more likely a fork will occur. Over 90% of recent blocks mined are signaling Segwit2x. (https://coin.dance/blocks)
+D) At this time a fork appears to be very likely
+E) Most large companies and payment processors would have no choice but to halt all BTC transactions on July 31 unless something changes
+F) You can watch devs discussing solutions daily here https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-July/date.html#start as well as on twitter/slack - it doesn't look good as far as HF goes.
+ 
+Conclusion: I do not think BTC is going to die for certain - a HF is actually probably good in the long run - but I do think there will probably be mass-confusion/chaos for a while
